@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @khairul2007
-- 👀 I’m interested in ...web developement and app development  
-- 🌱 I’m currently learning ... javascript and php
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m khairul islam
+- 👀 I’m interested in ...web development and app development  
+- 🌱 I’m currently learning ... javascript and PHP
+- 💞️ I’m looking for an internship
 - 📫 How to reach me ... khairul.muktagacha@gmail.com
 
 <!---
